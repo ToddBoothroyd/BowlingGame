@@ -1,0 +1,10 @@
+{
+  "GameName": "Ten-Pin Bowling",
+  "Details": "Ten-pin bowling is a type of bowling in which a bowler rolls a bowling ball down a wood or synthetic lane toward ten pins positioned evenly in four rows in an equilateral triangle. The objective is to knock down all ten pins on the first roll of the ball (a strike), or failing that, on the second roll (a spare).",
+  "Frames": 10,
+  "Throws": 2,
+  "LastFrame": 3,
+  "Pins": 10,
+  "HowToPlay":  "How to play: everyone who is anyone outside New England knows..."
+}
+

@@ -1,0 +1,9 @@
+C:\Projects\BowlingGameDemo\BowlingGame\bin\Debug\netcoreapp3.1\Data\TenPinGameData.json
+C:\Projects\BowlingGameDemo\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.deps.json
+C:\Projects\BowlingGameDemo\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.dll
+C:\Projects\BowlingGameDemo\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.pdb
+C:\Projects\BowlingGameDemo\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.AssemblyInfoInputs.cache
+C:\Projects\BowlingGameDemo\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.AssemblyInfo.cs
+C:\Projects\BowlingGameDemo\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Projects\BowlingGameDemo\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.dll
+C:\Projects\BowlingGameDemo\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9UBUeFsCM+tqRWLDvQK9B/DZ0XY2XM+/pQs1axWs0c5bw+WKooG8Q2As7b5d0V0sLQ6I555rZpTVpWNBayXlw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BowlingGameDemo\\BowlingGame\\BowlingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tboothroyd\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\tboothroyd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
